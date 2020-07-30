@@ -1,11 +1,11 @@
 # Site settings
-author: lisbeth estevez
-title: 
+author: Lisbeth Estevez
+title: Why I decided to study Software Engineering
 header-img: img/home-bg.png
 email: estevez34545@gmail.com
-copyright_name: lisbeth estevez
+copyright_name: Lisbeth Estevez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Studying Software Engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  estevez34545
